@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UnityARKitPlugin/UnityARShadows.unity
+  isLoaded: 1
+  isActive: 1
